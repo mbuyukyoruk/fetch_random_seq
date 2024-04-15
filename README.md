@@ -11,7 +11,7 @@ long and many sequences.
 
 Syntax:
 
-        python fetch_random_seq.py -i demo.fasta
+        python fetch_random_seq.py -i demo.fasta -n 5
 
 fasta_unalignr dependencies:
 
